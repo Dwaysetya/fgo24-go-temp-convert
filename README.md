@@ -1,4 +1,4 @@
-# Temperature Conversion Application with Go
+# Temperature Conversion with Go
 
 This is a simple terminal-based application to convert temperature from Celsius to Kelvin, Fahrenheit, and Reamur. This program is made with the Go programming language and is suitable for beginners who want to learn the basics of Go such as:
 
